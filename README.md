@@ -5,3 +5,5 @@ Instalatzeko share-eu karpeta konprimatu share-eu.jar izenarekin, eta alfresco-e
 Ondoren bakoitza bere instalazio karpetan sartu: $Alf_dir/webapps/share/WEB-INF/lib edo $Alf_dir/webapps/alfresco/WEB-INF/lib
 
 Goiko menuak erdizka euskaratuta badaude share-eu/META-INF/js/aikau barneko karpetetako bat Alfrescoren bertsioak duen Aikau bertsiora berrizendatu
+
+Aikau bertsioa jakiteko: $alf_dir/webapps/share/WEB-INF/lib/aikau-XXXXXX.jar
